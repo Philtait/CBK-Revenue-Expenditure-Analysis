@@ -1,0 +1,38 @@
+
+RESEARCH HYPOTHESIS:
+
+H1: PRIMARY HYPOTHESIS
+"Government revenue and expenditure in Kenya follow predictable linear growth 
+patterns that can be forecasted using historical trends from FY 2021/22 to 2023/24."
+
+SUPPORTING SUB-HYPOTHESES:
+
+H1a: Revenue Growth
+- Tax revenue (especially Income Tax and VAT) will continue growing at approximately 
+  10-15% annually based on economic growth and improved tax collection.
+
+H1b: Expenditure Growth
+- Total expenditure will continue growing at 8-12% annually, driven primarily by:
+  1. Rising debt servicing costs (interest payments)
+  2. Increased wage bills
+  3. County government transfers
+
+H1c: Budget Deficit
+- The budget deficit will remain structurally persistent, ranging between 
+  30-35% of total revenue, unless significant fiscal reforms are implemented.
+
+H1d: Revenue Composition
+- Income Tax will remain the dominant revenue source (38-40% of total revenue)
+- VAT will be the second largest contributor (23-25%)
+- Import and Excise duties will grow modestly due to trade policy changes
+
+H1e: Expenditure Composition
+- Interest payments will continue consuming an increasing share of expenditure 
+  (rising from 19% to potentially 25%+ by FY 2025/26)
+- Development expenditure will face continued pressure and may decline further
+- Recurrent expenditure will dominate (75-80% of total)
+
+PREDICTIVE MODELS TO DEVELOP:
+1. Time Series Forecasting (ARIMA/Prophet) for revenue and expenditure
+2. Linear Regression for budget deficit prediction
+3. Classification model for fiscal sustainability assessment

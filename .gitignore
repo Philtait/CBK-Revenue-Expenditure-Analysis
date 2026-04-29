@@ -1,0 +1,43 @@
+# .gitignore for Python Data Science Project
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Data files (large files)
+*.csv
+*.xlsx
+*.pdf
+data/raw/*.pdf
+data/processed/*.csv
+
+# BUT keep example/small data
+!data/processed/sample_data.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports (temporary)
+*.tmp
+~$*
+
+# Output
+*.log

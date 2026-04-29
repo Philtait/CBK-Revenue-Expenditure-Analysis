@@ -1,0 +1,24 @@
+# Data Extraction
+tabula-py
+PyPDF2
+
+# Data Manipulation
+pandas
+numpy
+openpyxl
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Modeling
+scipy
+statsmodels
+scikit-learn
+
+# Utilities
+requests
+python-dateutil
+jupyter
+ipykernel

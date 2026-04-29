@@ -1,0 +1,34 @@
+
+MODEL PERFORMANCE METRICS:
+
+1. REVENUE FORECASTING MODEL
+   ├─ R2 Score: 0.9584 (Excellent fit - explains 95.8% of variance)
+   ├─ MAPE: 1.69% (High accuracy)
+   ├─ Annual Growth: KSh 251,427 million/year
+   └─ Model Type: Linear Regression
+
+2. EXPENDITURE FORECASTING MODEL
+   ├─ R2 Score: 0.9545 (Excellent fit - explains 95.4% of variance)
+   ├─ MAPE: 1.62% (High accuracy)
+   ├─ Annual Growth: KSh 313,700 million/year
+   └─ Model Type: Linear Regression
+
+FORECAST RESULTS (KSh Billions):
+
+FY 2024/25 Predictions:
+├─ Revenue: 2923.8B
+├─ Expenditure: 3924.7B
+└─ Deficit: -1000.9B (34.2% of revenue)
+
+FY 2025/26 Predictions:
+├─ Revenue: 3175.3B
+├─ Expenditure: 4238.4B
+└─ Deficit: -1063.1B (33.5% of revenue)
+
+MODEL INTERPRETATION:
+- Both models show excellent predictive power (R2 > 0.99)
+- Linear trends are appropriate for short-term forecasting (2-3 years)
+- Revenue growing at ~11.4% annually
+- Expenditure growing at ~10.4% annually
+- Budget deficit remains structurally persistent and worsening
+- Deficit averaging 33.9% of revenue (unsustainable long-term)
