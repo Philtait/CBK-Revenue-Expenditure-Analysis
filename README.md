@@ -88,6 +88,5 @@ jupyter notebook
 
 ## 📄 License
 This project is for educational purposes.
-```
 ---
 
